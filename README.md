@@ -1,9 +1,3 @@
-# startup_namer
+# Startup Namer (Flutter Tutorial)
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-# Flutter Tutorial
+A new flutter project.
